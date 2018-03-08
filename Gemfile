@@ -32,6 +32,9 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'simple_form'
 
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog-aws'
 
 
 # Use Capistrano for deployment
